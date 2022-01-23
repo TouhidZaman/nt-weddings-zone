@@ -9,3 +9,7 @@ body {
 .nt-text-primary {
     color: #3E3E3E !important;
 }
+
+.carousel-item img {
+    object-fit: cover;
+}
