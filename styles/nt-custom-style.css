@@ -13,3 +13,11 @@ body {
 .carousel-item img {
     object-fit: cover;
 }
+.packages .package-3 .card{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+.packages .package-3 span {
+    left: 80%;
+}
