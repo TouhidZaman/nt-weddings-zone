@@ -10,9 +10,12 @@ body {
     color: #3E3E3E !important;
 }
 
+/* Top banner area  */
 .carousel-item img {
     object-fit: cover;
 }
+
+/* our packages area  */
 .packages .package-3 .card{
     background: #3F87F5;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
@@ -20,4 +23,12 @@ body {
 }
 .packages .package-3 span {
     left: 80%;
+}
+
+/* Footer area  */
+footer {
+    background: #0B0D17;
+}
+.footer-content p, h3 {
+    color: #D9DBE1;
 }
