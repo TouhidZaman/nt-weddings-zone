@@ -9,6 +9,10 @@ body {
 .nt-text-primary {
     color: #3E3E3E !important;
 }
+/*NT's Custom Background Colors  */
+.nt-bg-dark-light {
+    background: rgb(233,236,239);
+}
 
 /* Top banner area  */
 .carousel-item img {
@@ -30,6 +34,10 @@ body {
 .packages .package-3 span {
     left: 80%;
 }
+
+/* Bonus get started  */
+
+
 
 /* Footer area  */
 footer {
